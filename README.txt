@@ -1,0 +1,7 @@
+Thank you for downloading! To install, drag the included .wotmod file to <Your WoT Directory\mods\<Game Version>
+
+(Example: C:\Games\World_of_Tanks\mods\1.5.1.0)
+
+Please note: This mod currently disables player emblems and inscriptions on this vehicle.
+
+Made by FastestClassic.
